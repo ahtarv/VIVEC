@@ -1,4 +1,4 @@
-## README: Vivec-U SOTA Segmentation Model
+# Vivec-U  Segmentation Model
 
 This repository contains the implementation and experimental results for **Vivec-U**, a specialized deep learning architecture designed for high-precision medical image segmentation, specifically targeting the **BUSI (Breast Ultrasound Images) dataset**.
 
