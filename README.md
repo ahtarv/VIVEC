@@ -1,6 +1,8 @@
 # Vivec-U  Segmentation Model
 
 This repository contains the implementation and experimental results for **Vivec-U**, a specialized deep learning architecture designed for high-precision medical image segmentation, specifically targeting the **BUSI (Breast Ultrasound Images) dataset**.
+
+
 VIVEC:- Variable Intensity Vascular & Epithelial Characterization
 #Note:- Currently Vivec U is more optimized for GPU performance. Another version of VIVEC, VIVECn(VIVEC Normal) is in the works. Architecuture similar to BhaskarNET. VivecU architecture is reminiscent of DFEM-NET
 ---
